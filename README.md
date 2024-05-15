@@ -44,3 +44,7 @@ In **Hidden Riches**, players embark on a thrilling treasure hunt. The objective
 
 ### Background Music
 - The game includes background music that plays continuously to enhance the gaming atmosphere.
+
+## Class Diagram
+![image](https://github.com/Anshlulla/Hidden-Riches-Java-2D-Game/assets/64259285/b1c00a3d-8ffb-41c8-903b-86c9c42b623a)
+

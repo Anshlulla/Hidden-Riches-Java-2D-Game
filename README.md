@@ -14,12 +14,11 @@
 In **Hidden Riches**, players embark on a thrilling treasure hunt. The objective is to navigate through different terrains, find 3 hidden keys, and unlock 3 doors. to find the treasure. Along the way, players can collect speed boosts to improve their score.
 ## Features
 
-- **Treasure Hunt**: Find 3 hidden keys to unlock 3 doors and find the treasure.
-- **Speed Boosts**: Collect speed boosts to move faster temporarily.
-- **Collision Detection**: Players cannot interact with water or forest areas, ensuring realistic movement constraints.
-- **Unlock Mechanism**: A door can only be unlocked if the player has found the key for that particular door.
-- **Background Music**: An immersive gaming experience with added background music.
-- **Player Movement**: Move the player using WASD keys or Arrow keys.
+- **Treasure Hunt**: Engage in a captivating treasure hunt where the ultimate goal is to find three hidden keys. These keys are essential for unlocking three doors that progressively lead to the hidden treasure.
+- **Speed Boosts**: Collect speed boosts scattered across the map to temporarily increase your movement speed.
+- **Collision Detection**: Experience realistic movement constraints with advanced collision detection. Players are prevented from moving through water bodies and dense forests, adding an element of strategy as they must find viable paths to their objectives.
+- **Unlock Mechanism**: The game features a unique unlock mechanism where each of the three doors can only be opened if the player has found the corresponding key. This adds an extra layer of challenge and progression to the game.
+- **Background Music**: Creating an immersive gaming experience with continuous background music that enhances the overall atmosphere of the treasure hunt.
 
 ## Controls
 
@@ -45,5 +44,3 @@ In **Hidden Riches**, players embark on a thrilling treasure hunt. The objective
 
 ### Background Music
 - The game includes background music that plays continuously to enhance the gaming atmosphere.
-
-

@@ -15,7 +15,7 @@ In **Hidden Riches**, players embark on a thrilling treasure hunt. The objective
 ## Features
 
 - **Treasure Hunt**: Engage in a captivating treasure hunt where the ultimate goal is to find three hidden keys. These keys are essential for unlocking three doors that progressively lead to the hidden treasure.
-- **Speed Boosts**: Collect speed boosts scattered across the map to temporarily increase your movement speed.
+- **Speed Boosts**: Collect speed boosts scattered across the map to increase your movement speed.
 - **Collision Detection**: Experience realistic movement constraints with advanced collision detection. Players are prevented from moving through water bodies and dense forests, adding an element of strategy as they must find viable paths to their objectives.
 - **Unlock Mechanism**: The game features a unique unlock mechanism where each of the three doors can only be opened if the player has found the corresponding key. This adds an extra layer of challenge and progression to the game.
 - **Background Music**: Creating an immersive gaming experience with continuous background music that enhances the overall atmosphere of the treasure hunt.
